@@ -1,4 +1,4 @@
-# 🎯 Simple Habit Tracker
+# Simple Habit Tracker
 
 A beautiful and interactive daily habit tracker to help you build better habits, one day at a time.
 
@@ -7,7 +7,7 @@ A beautiful and interactive daily habit tracker to help you build better habits,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## ✨ Features
+## Features
 
 - **Three Daily Habits**: Track "Drink Water," "Exercise," and "Read 10 Pages"
 - **Toggle Functionality**: Click to mark habits as done/not done
@@ -17,7 +17,7 @@ A beautiful and interactive daily habit tracker to help you build better habits,
 - **Responsive Layout**: Works perfectly on desktop and mobile devices
 - **Smooth Animations**: Engaging micro-interactions and hover effects
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone this repository:
 
@@ -36,7 +36,7 @@ A beautiful and interactive daily habit tracker to help you build better habits,
 - **Vanilla JavaScript**: Toggle functionality and localStorage
 - **Google Fonts**: Inter font family for clean typography
 
-## 📸 Screenshots
+## Screenshots
 
 ### Initial State
 
@@ -46,7 +46,7 @@ All habits ready to be tracked with "Not Done" status.
 
 Click any button to toggle to "✅ Done!" with a satisfying green background.
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - **Premium Aesthetics**: Vibrant purple gradient background
 - **Glassmorphism**: Semi-transparent card with backdrop blur
@@ -54,14 +54,14 @@ Click any button to toggle to "✅ Done!" with a satisfying green background.
 - **Accessibility**: Clear visual states and semantic HTML
 - **Mobile-First**: Responsive design that works on all screen sizes
 
-## 🔧 How It Works
+## How It Works
 
 1. **Click** a "Not Done" button to mark the habit as complete
 2. The row turns **green** and displays "✅ Done!"
 3. **Click again** to toggle back to "Not Done"
 4. Your progress **automatically saves** in the browser
 
-## 📝 Customization
+## Customization
 
 Want to add your own habits? Edit the HTML in `index.html`:
 
@@ -75,7 +75,7 @@ Want to add your own habits? Edit the HTML in `index.html`:
 </div>
 ```
 
-## 🌟 Future Enhancements
+## Future Enhancements
 
 - Add custom habit creation
 - Weekly/monthly progress tracking
@@ -83,17 +83,17 @@ Want to add your own habits? Edit the HTML in `index.html`:
 - Dark mode toggle
 - Export progress data
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+## Author
 
 **Julius Pelegrino**
 
 - GitHub: [@JuLiusGI](https://github.com/JuLiusGI)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
